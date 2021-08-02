@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 #banner{
-    background: linear-gradient(rgba(0,0,0,0.5), #960052), url(../Images/lazy\ picture.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), #960052), url(../images/lazy\ picture.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
