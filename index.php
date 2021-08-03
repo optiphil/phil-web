@@ -109,7 +109,7 @@
                     <small><a href="https://www.facebook.com/praise.philips.547">Praise Philips</a></small>
                 </div>
             </div>
-            <p>Although i just met him on facebook it is very surprising with what he can do  with codes athough, i am wondering how come he os the one writing down the comments and not us</p>
+            <p>Although i just met him on facebook it is very surprising with what he can do  with codes athough, i am wondering how come he is the one writing down the comments and not us</p>
         </div>
         <div class="testimonial-col">
             <div class="user">
@@ -132,6 +132,7 @@
             </div>
             <p>Tah! i dont believe you are the one thta did it joh you are just lieing somebody helped you ni</p> </div>
     </div>
+        <h1>Note:<p>Just come to my inbox and i will answer all</p></h1>
     </section>
     <section id="footer">
         <img src="./images/jobless barber.jpg" alt="" class="footer-img">
